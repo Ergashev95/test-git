@@ -41,3 +41,21 @@ a {
     color: white;
     font-size: 20px;
 }
+
+.header-content { 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+}
+.header-title {
+    font-size: 60px;
+    color: yellow;
+}
+.header-text {
+    font-size: 30px;
+    font-weight: 700;
+    color: white;
+    text-transform: uppercase;
+}
