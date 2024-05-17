@@ -11,8 +11,6 @@ a {
     text-decoration: none;
 }
 
-
-
 .header {
     width: 100%;
     background-color: indigo;
@@ -41,6 +39,10 @@ a {
     color: white;
     font-size: 20px;
 }
+
+
+
+
 
 .header-content { 
     display: flex;
